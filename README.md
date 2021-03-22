@@ -2,6 +2,7 @@
 - 👀 I’m interested in Systems programming but enjoy all forms of computer science
 - 🌱 I’m currently majoring in Computer Science at The University of Central Florida
 - 📫 How to reach me: email -> clindey@knights.ucf.edu
+- I am a senior and am currently job seeking
 
 <!---
 collyntheshots/collyntheshots is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
